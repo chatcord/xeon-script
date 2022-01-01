@@ -1,5 +1,5 @@
 {
-  "name": "@xeonjs/xeon-scripts",
+  "name": "@xeonjs/xeon-script",
   "version": "1.0.0",
   "description": "A Server Side Application For XEON JS.",
   "main": "./bin/index.js",
@@ -24,8 +24,7 @@
   "homepage": "https://github.com/chatcord/xeon-script#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chatcord/xeon-script.git",
-    "directory": "."
+    "url": "https://github.com/chatcord/xeon-script.git"
   },
   "keywords": [
     "XEON JS",
