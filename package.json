@@ -1,0 +1,46 @@
+{
+  "name": "@xeonjs/xeon-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "bin": {
+    "xeon-script": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/chatcord/xeon-script/issues"
+  },
+  "engines": {
+    "node": "^10.12.0 || >=12.0.0"
+  },
+  "files": [
+    "bin",
+    "scripts"
+  ],
+  "homepage": "https://github.com/chatcord/xeon-script#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatcord/xeon-script.git",
+    "directory": "."
+  },
+  "keywords": [
+    "XEON JS",
+    "xeon.js",
+    "Single Page Website",
+    "Node FrameWork",
+    "SPA Framework"
+  ],
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@xeonjs/jsx2xset": "^1.0.3",
+    "body-parser": "^1.19.1",
+    "chalk": "^4.1.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "open": "^8.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Arif Sardar",
+  "license": "MIT"
+}
