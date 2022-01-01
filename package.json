@@ -1,6 +1,6 @@
 {
   "name": "@xeonjs/xeon-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Server Side Application For XEON JS.",
   "main": "./bin/index.js",
   "bin": {
