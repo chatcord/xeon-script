@@ -14,7 +14,12 @@
   },
   "files": [
     "bin",
-    "scripts"
+    "scripts",
+    "package.json",
+    "LICENSE",
+    "README.md",
+    ".npmignore",
+    ".gitignore"
   ],
   "homepage": "https://github.com/chatcord/xeon-script#readme",
   "repository": {
